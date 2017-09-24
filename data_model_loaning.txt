@@ -1,7 +1,0 @@
-{
-  date: '01072017',
-  object: id,
-  cat: cat,
-  name: name,
-  surname: surname	
-}
