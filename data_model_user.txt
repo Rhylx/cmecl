@@ -1,0 +1,12 @@
+{
+  Name: 'Dupont',
+  Surname: 'Michel',
+  Nickname: 'Gasty',
+  promoE: 2016,
+  Tel: 'mousqueton',
+  Add: '012358'
+  Adhérent: bool,
+  NumLicence: '178562',
+  TypeAss: 'FFCAM',
+  Emprunteur: bool,	
+}
