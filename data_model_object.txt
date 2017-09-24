@@ -1,6 +1,0 @@
-{
-  id: '1',
-  desc: 'bon état',
-  cat: 'mousqueton',
-  refCons: '012358'
-}
