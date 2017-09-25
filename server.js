@@ -14,7 +14,7 @@ const sendJSON = (path,res) =>
 	      		res.end(data)
 	    	})
 const server = http.createServer((req, res) => {
-    console.log(req)
+    // console.log(req)
     if (req.url.startsWith('/user')) {
     	const user = req.url.slice(6)
     	if (user) {
@@ -45,6 +45,7 @@ const server = http.createServer((req, res) => {
 	            'Content-Type': 'text/html',
 	            'Content-Length': data.length
 	        })
+	        
 	        res.write(data)
 	        res.end()
 	    })
