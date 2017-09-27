@@ -8,6 +8,7 @@ input {
   padding: 10px;
   font-size: 1.2em;
   width: 100%;
+  margin-bottom: 10px;
 }
 input::placeholder {
   color: black;
