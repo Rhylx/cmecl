@@ -1,0 +1,5 @@
+# Ignore js files 
+*.json
+
+# Folders to ignore 
+node_modules
